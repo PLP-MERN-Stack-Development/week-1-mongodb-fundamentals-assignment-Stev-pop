@@ -176,7 +176,56 @@ async function insertBooks() {
 }
 
 // Run the function
-insertBooks().catch(console.error);
+insertBooks(books).catch(console.error);
+
+//MongoDb Queries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /*
  * Example MongoDB queries you can try after running this script:
